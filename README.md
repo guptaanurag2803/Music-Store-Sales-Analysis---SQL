@@ -1,7 +1,7 @@
 # Music Store Sales Analysis
 
 ## Overview
-This project, titled Music Store Analysis, aims to analyze a music store database using SQL queries. The database consists of 11 tables containing various information related to the music store's operations. The queries in this project utilize PostgreSQL, incorporating joins, common table expressions (CTEs), and subqueries to answer 12 specific questions regarding the data.
+This project, titled Music Store Sales Analysis, aims to analyze a music store database using SQL queries. The database consists of 11 tables containing various information related to the music store's operations. The queries in this project utilize PostgreSQL, incorporating joins, common table expressions (CTEs), and subqueries to answer 12 specific questions regarding the data.
 
 ## Files Included
 1. **Music_Store_database.sql**: This file contains the SQL script to create the music store database with its 11 tables.
